@@ -1,0 +1,31 @@
+.bbb {
+  text-align: center;
+  padding: 1rem;
+}
+.back{
+  background-image: url('../images/bg.jpeg');
+  min-height: 800px;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.5);
+
+
+}
+/*for prettify look*/
+.toggle_color{
+  background-color: #51b7cf;
+  border-radius: 0px;
+  border-color: rgb(44,83,105);
+  margin-top: 20px;
+
+  color: white;
+}
+.toggle_color_2{
+  margin-left: 20px;
+
+}
+.toggle_color_3:hover{
+  background-color: #51b7cf;
+  color: #51b7cf;
+}

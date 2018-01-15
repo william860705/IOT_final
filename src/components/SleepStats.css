@@ -1,0 +1,45 @@
+.dddd{
+  background-color: rgba(0,0,0,0);
+  color: #fff;
+
+  border-color: rgba(0,0,0,0);
+}
+.dddd_2{
+  background-color: rgba(0,0,0,0);
+  color: #fff;
+margin-left: 50px;
+border-color: rgba(0,0,0,0);
+}
+.aaaa{
+  background-color: #51b7cf;
+  color: #51b7cf;
+  font-size: 80px;
+}
+
+.dddd:active {
+    border-color: rgba(0,0,0,0);
+    color: white;
+}
+.dddd:hover {
+    border-color: rgba(0,0,0,0);
+    color: white;
+}
+.zzz1{
+    color: white;
+    font-size: 30px;
+    padding-left: 120px;
+}
+.zzz2{
+    color: white;
+    font-size: 30px;
+    padding-left: 125px;
+    margin-top: 800px;
+
+}
+.bgcolor1{
+  background-color: rgba(44, 83, 105, 0.85);
+  border-radius: 5px;
+  margin-left: 200px;
+  width:700px;
+  padding-left: 40px;
+}

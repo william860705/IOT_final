@@ -1,0 +1,126 @@
+.main {
+    height: 100%;
+}
+
+.main .footer {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    padding: 6rem 2rem 2rem 2rem;
+}
+
+.main .search {
+    position: relative;
+    width: 100%;
+}
+.muscle{
+  width:480px;
+  height: 250px;
+  padding: 5px 5px 5px 0;
+  border-radius: 10px;
+}
+.main .search input {
+    padding-right: 1.5rem;
+}
+
+.main .search i {
+    position: absolute;
+    top: 0.25rem;
+    right: 0.5rem;
+}
+
+.main .search i:hover {
+    color: #fff;
+}
+
+@media (min-width: 576px) {
+    .main .search {
+        width: 10rem;
+    }
+}
+
+#super {
+  color: 	#fff;
+  font-size: 3rem;
+  padding-left:20px;
+}
+.navvvv{
+  background-color:#51b7cf;
+}
+.cc{
+  background-color: rgb(44,83,105);
+}
+.dd{
+  background-color: #fff;
+  color: #000;
+  margin-left: 50px;
+  border-radius: 0px;
+}
+#superr {
+  color: #fff;
+  font-size: 2.5rem;
+}
+#hi{
+  margin-top:50px;
+  margin-left:50px;
+  background-color: rgb(44,83,105);
+  width: 400px;
+  padding-left: 50px;
+  border-color: rgb(44,83,105);
+}
+#hi_1{
+  background-color: rgb(44,83,105);
+  padding-left: 50px;
+  border-color: rgb(44,83,105);
+  color: #fff;
+}
+.bb{
+  padding-left: 20px;
+}
+#navv {
+  color: black;
+}
+#facebok{
+    border-radius: 9999px;
+}
+
+#fbicon{
+  color: #3b5998;
+}
+
+.s{
+  width: 45px;
+  height: 45px;
+  padding: 5px 5px 5px 0;
+  border-radius: 10px;
+}
+
+#guide .modal-body{
+    /*border: 0px 0px;
+    padding:9px 15px;
+    border-bottom:1px solid rgba(243, 173, 16, 0.5);*/
+    background-color: white;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+ }
+.bgfaded{
+  background-color: #51b7cf;
+  padding: 10px;
+}
+.aa{
+  color: #fff;
+}
+/*#cell1 {
+  border-left:  5px solid rgba(133,231,255,0.5);
+}
+
+#cell2 {
+  border-left:  5px solid white;
+}
+
+#cell3 {
+  border-left:  5px solid rgba();
+}*/
